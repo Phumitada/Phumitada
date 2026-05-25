@@ -37,7 +37,7 @@ Full-stack Developer · DevOps Engineer
 - Docker · nginx · SSL · CI/CD with GitHub Actions · Grafana Monitoring
 - PostgreSQL · Prisma · Redis · Express · React · TypeScript
 
-**[Live Demo](https://hotel.phumitada.com)** · `guest@hotel.com / guest123` · **[Repository](https://github.com/Phumitada/Hotel-Booking-System-DevOps)**
+**[Live Demo](https://hotel.phumitada.com)** · `john@example.com / password123` · **[Repository](https://github.com/Phumitada/Hotel-Booking-System-DevOps)**
 
 ---
 
