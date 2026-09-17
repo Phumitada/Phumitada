@@ -6,7 +6,8 @@ Full-stack Developer · DevOps Engineer
 
 ## Tech Stack
 
-**Development**
+**Development**:
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -18,7 +19,8 @@ Full-stack Developer · DevOps Engineer
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Infrastructure & Platform Engineering**
+**Infrastructure & Platform Engineering**:
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
@@ -43,7 +45,7 @@ Full-stack Developer · DevOps Engineer
 - Self-hosted the platform on its own infrastructure — proven end-to-end from GitHub webhook through build, registry push, GitOps sync, and reconciliation to a live production domain
 - Kubernetes · Go · kubebuilder · ArgoCD · BuildKit · Docker · PostgreSQL · Redis · BullMQ · Prisma · Express · React · TypeScript
 
-**[Live Platform](https://idp.phumitada.com)** · `<repository link — confirm it's public before adding>`
+**[Live Platform](https://idp.phumitada.com)** · **[KubeBuilder-Controller](https://github.com/Phumitada/IDP-Controller)** · **[Developer-Portal](https://github.com/Phumitada/Internal-PaaS)** 
 
 ---
 
