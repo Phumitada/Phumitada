@@ -1,6 +1,6 @@
 # Hi, I'm Phumitada
 Computer Engineering Student @ Kasetsart University
-Full-stack Developer · DevOps Engineer
+Platform Engineer · DevOps Engineer · Software Engineer
 
 ---
 
