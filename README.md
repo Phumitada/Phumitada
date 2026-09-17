@@ -22,7 +22,6 @@ Full-stack Developer · DevOps Engineer
 **Infrastructure & Platform Engineering**:
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![KubeBuilder]([https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmyZkQIjN0xLu8ejUZQacP2sXu8oLxzC9xTmY23RqWXw&s=10))
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![BuildKit](https://img.shields.io/badge/BuildKit-1D63ED?style=flat&logo=docker&logoColor=white)
